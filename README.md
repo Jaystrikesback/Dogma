@@ -19,5 +19,18 @@ This section will provide instructions on how to install and run the Dogma contr
 This section will provide detailed information about the specific agents, including their capabilities and how to use them effectively.
 
 - **Browser Use Agent:** (Details to be added) - Repository: [https://github.com/browser-use/browser-use](https://github.com/browser-use/browser-use)
-
 - **SmartScrapeAI Agent:** (Details to be added)
+
+## Citations
+
+If you use resources from this project, please cite the original works.
+
+```bibtex
+@software{browser_use2024,
+  author = {Müller, Magnus and Žunič, Gregor},
+  title = {Browser Use: Enable AI to control your browser},
+  year = {2024},
+  publisher = {GitHub},
+  url = {https://github.com/browser-use/browser-use}
+}
+```
