@@ -17,6 +17,7 @@ This section will provide instructions on how to install and run the Dogma contr
 
 ## Agent Details (Placeholder)
 This section will provide detailed information about the specific agents, including their capabilities and how to use them effectively.
+
 - **Browser Use Agent:** (Details to be added) - Repository: [https://github.com/browser-use/browser-use](https://github.com/browser-use/browser-use)
 - **SmartScrapeAI Agent:** (Details to be added)
 
