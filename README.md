@@ -2,7 +2,7 @@
 Control plane for AI Agents
 
 ## Project Overview
-This project aims to create a GUI front-end for task-specific agents that integrate with Ollama. The goal is to provide a user-friendly interface for managing and interacting with these AI agents.
+This project aims to create a GUI front-end for task-specific agents that integrate with Ollama. The goal is to provide a user-friendly interface for managing and interacting with these AI agents. As most work is done via a browser interface today, we will be focusing on simplifying use of tools that empower traditional "browser and web resource" workflows first.
 
 ## Current Features
 The initial focus of this project is to support the following agents:
